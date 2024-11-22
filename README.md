@@ -1,4 +1,4 @@
-## cr7 the legend 'skull'
+## cr7 the legend 
 
 <!--
 **cm7omelhor/cm7omelhor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
